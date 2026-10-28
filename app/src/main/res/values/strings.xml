@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TP07 - Auth Firebase</string>
+    <string name="welcome_title">Perfil do usuário</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_uid">UID</string>
+    <string name="sign_out">Sair</string>
+    <string name="login_title">Entrar</string>
+    <string name="register_title">Criar conta</string>
+    <string name="label_password">Senha</string>
+    <string name="label_confirm_password">Confirmar senha</string>
+    <string name="login_button">Logar</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="go_register">Ainda não tem uma conta? <b>Crie aqui</b></string>
+    <string name="go_login">Já tem uma conta? <b>Entre aqui</b></string>
+    <string name="error_email_invalid">Informe um e-mail válido.</string>
+    <string name="error_password_required">Informe a senha.</string>
+    <string name="error_password_short">A senha deve ter ao menos 6 caracteres.</string>
+    <string name="error_password_mismatch">As senhas não conferem.</string>
+    <string name="error_credentials">E-mail ou senha incorretos.</string>
+    <string name="error_email_in_use">Este e-mail já está cadastrado.</string>
+    <string name="error_no_network">Sem conexão com a internet.</string>
+    <string name="error_generic">Algo deu errado. Tente novamente.</string>
+</resources>
